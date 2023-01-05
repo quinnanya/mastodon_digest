@@ -1,4 +1,4 @@
-name: My Mastodon Digest 
+name: Quinn's Mastodon Digest 
 on:
   schedule:
     - cron: '0 10,22 * * *'
